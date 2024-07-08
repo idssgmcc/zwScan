@@ -1,9 +1,5 @@
 {
-        "cms": "MinIO",
-        "method": "keyword",
-        "location": "body",
-        "keyword": ["<img src=\"/minio/logo.svg\" alt=\"\">", "<title>Minio Browser</title>"]
-    }, {
+        "fingerprint": [{
         "cms": "MinIO",
         "method": "keyword",
         "location": "header",
@@ -23,12 +19,7 @@
         "method": "keyword",
         "location": "body",
         "keyword": ["href=\"/minio/loader.css\""]
-    }, {
-        "cms": "MinIO",
-        "method": "keyword",
-        "location": "body",
-        "keyword": ["<img src=\"/minio/logo.svg\" alt=\"\">", "<title>Minio Browser</title>"]
-    }, {
+    },{
         "cms": "MinIO",
         "method": "keyword",
         "location": "header",
