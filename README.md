@@ -19,6 +19,9 @@
                 }
 
 
+![image](https://github.com/idssgmcc/zwScan/assets/47582299/cc555fd2-3de3-4777-b2de-4232316ddc2e)
+
+
 仅提供安全研究与学习之用，如用于其他用途，由使用者承担全部法律及连带责任，与工具作者和公众号码无关。
 
 
