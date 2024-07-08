@@ -1,0 +1,37 @@
+{
+        "cms": "MinIO",
+        "method": "keyword",
+        "location": "body",
+        "keyword": ["<img src=\"/minio/logo.svg\" alt=\"\">", "<title>Minio Browser</title>"]
+    }, {
+        "cms": "MinIO",
+        "method": "keyword",
+        "location": "header",
+        "keyword": ["Server: MinIO"]
+    }, {
+        "cms": "MinIO",
+        "method": "keyword",
+        "location": "body",
+        "keyword": ["MinIO Console"]
+    }, {
+        "cms": "MinIO",
+        "method": "keyword",
+        "location": "title",
+        "keyword": ["MinIO Browser"]
+     }, {
+        "cms": "MINIO-Browser",
+        "method": "keyword",
+        "location": "body",
+        "keyword": ["href=\"/minio/loader.css\""]
+    }, {
+        "cms": "MinIO",
+        "method": "keyword",
+        "location": "body",
+        "keyword": ["<img src=\"/minio/logo.svg\" alt=\"\">", "<title>Minio Browser</title>"]
+    }, {
+        "cms": "MinIO",
+        "method": "keyword",
+        "location": "header",
+        "keyword": ["Server: MinIO"]
+    }]
+}
